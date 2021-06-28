@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>image/sswhite.bmp</file>
+        <file>image/ssblack.bmp</file>
+        <file>image/black.png</file>
+        <file>image/white.png</file>
+        <file>image/123.gif</file>
+        <file>image/new.ico</file>
+        <file>image/1458.gif</file>
+        <file>image/14830531_62.gif</file>
+        <file>image/6789.gif</file>
+        <file>image/2345.gif</file>
+        <file>image/01.jpg</file>
+        <file>image/777.png</file>
+        <file>image/1003.gif</file>
+        <file>image/djs01.gif</file>
+        <file>image/fail.png</file>
+        <file>image/fallback.png</file>
+        <file>image/helpabout.png</file>
+        <file>image/start.png</file>
+        <file>image/settings.png</file>
+        <file>image/fileopen.png</file>
+        <file>image/beijing.jpg</file>
+        <file>image/beijing6.jpeg</file>
+        <file>image/beijing2.jpeg</file>
+        <file>image/beijing7.jpg</file>
+        <file>image/112.png</file>
+        <file>image/114.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>Resources/MyTitle.css</file>
+        <file>Resources/MyTitle/close.png</file>
+        <file>Resources/MyTitle/max.png</file>
+        <file>Resources/MyTitle/min.png</file>
+        <file>Resources/MyTitle/restore.png</file>
+        <file>image/boy.jpg</file>
+        <file>image/girl.jpg</file>
+    </qresource>
+</RCC>
